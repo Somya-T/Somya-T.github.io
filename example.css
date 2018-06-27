@@ -1,0 +1,27 @@
+*{
+  font-size: 20 px;
+}
+
+div {
+  margin-top: 50 px;
+  margin-left: 40 px;
+  border-style: dotted;
+  border-color: black;
+  }
+/* applies only to the div with the id "border" */
+#border {
+  border-style: solid;
+  border-color: black;
+}
+
+  #colorful {
+    color: orange;
+}
+
+  body {
+    background-color: #FFCCE6
+  }
+
+#montrealgarden {
+  right: 0px;
+}
