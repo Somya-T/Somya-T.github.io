@@ -8,11 +8,11 @@ function myFunction2() {
 }
 
 function myFunction3() {
-    alert("FALL LOVER! Do you love the site of hundreds of shades of colors on trees while driving up the mountains? If so, Gatlinburg should be your destination!!")
+    alert("FALL LOVER! Do you love the site of hundreds of shades of colors on trees while driving up the mountains? If so, Gatlinburg should be your destination!! Don't feel like driving? Take a scenic train ride in Catskills ")
 }
 
 function myFunction4() {
-    alert("WINTER LOVER!! Do you just love the Christmas feeling? There's no better place than New York City to visit in the winter time!")
+    alert("WINTER LOVER!! Do you just love the Christmas feeling? There's no better place than New York City to visit in the winter time! Want to take more of a mountain approach? Go to the Rockies!")
 }
 
 function myFunction5() {
